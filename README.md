@@ -33,4 +33,3 @@ npm run build
 ```sh
 npm run lint
 ```
-# atividade_viu_-p
